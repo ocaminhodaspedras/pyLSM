@@ -52,7 +52,7 @@ python main.py
 
 Se você utilizar o pyLSM em suas pesquisas, aulas ou publicações, cite-o utilizando o DOI emitido pelo Zenodo:
 
-> Leitzke, F. P. (2026). pyLSM: Explorador Didático do Modelo de Deformação de Rede (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.XXXXXXX
+> Leitzke, F. P. (2026). pyLSM: Explorador Didático do Modelo de Deformação de Rede (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.24237179
 
 Consulte o arquivo `CITATION.cff` para formatos de exportação direta (BibTeX, APA).
 
