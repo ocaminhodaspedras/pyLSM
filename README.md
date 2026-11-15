@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24237179.svg)](https://doi.org/10.5281/zenodo.24237179)
 
 **pyLSM** é um aplicativo desktop interativo desenvolvido em Python (PyQt5) para fins didáticos e de pesquisa, aplicando o **Lattice Strain Model (LSM)** de Blundy & Wood (1994) e Brice (1975) para modelar a partição de elementos traço entre minerais e líquidos e observar as variações dos parâmetros físico-químicos associados.
 
