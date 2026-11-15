@@ -59,3 +59,7 @@ Consulte o arquivo `CITATION.cff` para formatos de exportação direta (BibTeX, 
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## Declaração de uso de IA
+
+Em conformidade com as boas práticas de ciência aberta e integridade em software científico, declara-se que o desenho conceitual, a formulação físico-química, a implementação das restrições e a validação matemática/numérica são de autoria e responsabilidade exclusiva do desenvolvedor humano. Ferramentas de inteligência artificial generativa foram utilizadas como recurso auxiliar para geração de estrutura sintática em Python/PyQt5 e refatoração de código.
